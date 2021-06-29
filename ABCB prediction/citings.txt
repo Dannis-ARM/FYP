@@ -1,0 +1,30 @@
+Hao, Y., & Gao, Q. (2020). Predicting the Trend of Stock Market Index Using the Hybrid Neural Network Based on Multiple Time Scale Feature Learning. Applied Sciences, 10(11), 3961. doi:10.3390/app10113961
+
+Ma, Yilin & Han, Ruizhu & Fu, Xiaoling. (2019). Stock prediction based on random forest and LSTM neural network. 126-130. 10.23919/ICCAS47443.2019.8971687.
+
+Lipton, Z.C. (2015). A Critical Review of Recurrent Neural Networks for Sequence Learning. ArXiv, abs/1506.00019.
+
+Chen, K., Zhou, Y., & Dai, F. (2015). A LSTM-based method for stock returns prediction: A case study of China stock market. 2015 IEEE International Conference on Big Data (Big Data), 2823-2824.
+
+Nikou, M., Mansourfar, G., & Bagherzadeh, J. (2019). Stock price prediction using DEEP learning algorithm and its comparison with machine learning algorithms. Intelligent Systems in Accounting, Finance and Management. doi:10.1002/isaf.1459 
+
+Selvin, S., Vinayakumar, R., Gopalakrishnan, E. A., Menon, V. K., & Soman, K. P. (2017). Stock price prediction using LSTM, RNN and CNN-sliding window model. 2017 International Conference on Advances in Computing, Communications and Informatics (ICACCI). doi:10.1109/icacci.2017.8126078 
+
+Breiman, L. Random Forests. Machine Learning 45, 5–32 (2001). https://doi.org/10.1023/A:1010933404324
+
+Nti, Kofi Opoku and Adekoya, Adebayo and Weyori, Benjamin, Random Forest Based Feature Selection of Macroeconomic Variables for Stock Market Prediction (July 19, 2019). American Journal of Applied Sciences 2019, 16 (7): 200.212 DOI: 10.3844/ajassp.2019.200.212 , Available at SSRN: https://ssrn.com/abstract=3446053 or http://dx.doi.org/10.2139/ssrn.3446053
+
+Sharma, N., Dev, J., Mangla, M. et al. A Heterogeneous Ensemble Forecasting Model for Disease Prediction. New Gener. Comput. (2021). https://doi.org/10.1007/s00354-020-00119-7
+
+Nti, I.K., Adekoya, A.F. & Weyori, B.A. A comprehensive evaluation of ensemble learning for stock-market prediction. J Big Data 7, 20 (2020). https://doi.org/10.1186/s40537-020-00299-5
+
+Zhifeng Dai, Huan Zhu, Jie Kang, New technical indicators and stock returns predictability, International Review of Economics & Finance, Volume 71, 2021, Pages 127-142, ISSN 1059-0560, https://doi.org/10.1016/j.iref.2020.09.006. 
+
+
+
+
+ 
+
+
+
+
