@@ -114,6 +114,7 @@ pip-selfcheck.json
 .idea/jsLibraryMappings.xml
 
 TEST/
+Monitor/
 
 # Sensitive or high-churn files:
 .idea/dataSources.ids
